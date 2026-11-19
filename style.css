@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f9;
+    color: #1f2937;
+    margin: 20px;
+    line-height: 1.5;
+}
+
+body > div {
+    background-color: #ffffff;
+    border-left: 4px solid #2563eb;
+    padding: 10px 14px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+}
+
+#afficher7 {
+    font-family: monospace;
+    white-space: pre-line;
+}
+
+table {
+    border-collapse: collapse;
+    margin-top: 8px;
+}
+
+th, td {
+    border: 1px solid #cbd5e1;
+    padding: 5px 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #e2e8f0;
+}
